@@ -80,3 +80,17 @@ Examples:
 
 \- Keep the code simple, clean, and maintainable.
 
+
+
+\## File Organization
+
+
+
+\- Keep reusable components in a dedicated components directory.
+
+\- Keep API-related logic organized separately.
+
+\- Keep environment variables in `.env` files.
+
+\- Never commit `.env` files or secret credentials.
+
